@@ -1,0 +1,11 @@
+{
+  "name": "dysh",
+  "version": "1.0.2",
+  "description": "smth",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
